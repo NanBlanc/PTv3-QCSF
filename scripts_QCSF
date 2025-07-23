@@ -1,0 +1,6 @@
+train :
+sh scripts/train.sh -g 1 -d qcsf -c semseg-ptv3-noint -n qcsf-test
+tensorboard --logdir=.
+
+test :
+sh scripts/test.sh -g 1 -d qcsf -c semseg-ptv3-base -n qcsf-test
