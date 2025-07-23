@@ -1,5 +1,5 @@
 <div align='left'>
-<img src="assets/qcsf_disply.png" alt="teaser" width="800" />
+<img src="assets/qcsf_display.png" alt="teaser" width="800" />
 </div>
 
 # QC-SF x PTv3
